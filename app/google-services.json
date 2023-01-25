@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318895502490",
+    "project_id": "praekt-e080a",
+    "storage_bucket": "praekt-e080a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318895502490:android:37f18c63ab629cf76e5b23",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318895502490-ta9nlo6kf84giidesqbda6v9cus9ogmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-3iSeuaTc3kq0OzTq9fmYWRoqEG1tFck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318895502490-ta9nlo6kf84giidesqbda6v9cus9ogmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
